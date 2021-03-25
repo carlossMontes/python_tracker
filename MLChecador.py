@@ -19,7 +19,7 @@ from datetime import datetime
 
 # Necesarios para conseguir el titulo y precio del proyecto. Buscar por User-Agent
 headers = {
-    "User-Agent":  'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 Edg/83.0.478.50'}
+    "User-Agent":  'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36 OPR/74.0.3911.232'}
 
 # Funcion para monitorear precio. Se necesita la URL del producto de ML y el precio que se busca
 
